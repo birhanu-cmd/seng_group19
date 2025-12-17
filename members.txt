@@ -1,0 +1,10 @@
+Group Name: SENG Group 19
+Project Name: Software Engineering Group Project
+University: Mekelle University
+
+Members:
+1. Birhanu Zekiros
+2. Hagazi Berhe
+3. Akebom Gebreab
+4. Samuel G/silase
+5. Kidus Gebru
